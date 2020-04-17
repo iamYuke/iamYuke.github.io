@@ -64,8 +64,6 @@
 
 
 # jekyll 语言需要忽略的
-
-_site
 _site
 .sass-cache
 .jekyll-cache
