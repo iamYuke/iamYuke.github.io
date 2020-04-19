@@ -1,5 +1,4 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: Yuke blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,8 +13,8 @@ author-pic: Yuke-face.jpg
 about-author: My name is Yuke Zhang. I’m a iOS Developer.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
+email: IamYukeZhang@foxmail.com # Add your Email address
+phone: 17600051300 # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github:  # Add your Github handle
